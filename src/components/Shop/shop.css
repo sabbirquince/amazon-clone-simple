@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.shop-container {
+    display: flex;
+}
+
+.shopping {
+    flex: 0 0 82.5%;
+    padding: 0 0 1% 12.5%;
+    border-right: 1px solid lightgray;
+}
+
+.cart {
+    flex: 1;
+    padding: 0 1.5%;
+}
