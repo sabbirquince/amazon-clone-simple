@@ -17,7 +17,7 @@
     display: inline-block;
 }
 
-.product button {
+.button {
     margin-top: 1rem;
     padding: .35rem .65rem;
     background-color: goldenrod;
@@ -25,10 +25,10 @@
     border-radius: 3px;
 }
 
-.product button:active {
+.button:active {
     transform: scale(.98);
 }
 
-.product button:focus {
+.button:focus {
     outline: none;
 }
